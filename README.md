@@ -1,4 +1,4 @@
-# Okeears stage deployment as GitHub Pages
+# Okeears - stage deployment as GitHub Pages
 
 https://stage.okeears.com
 
